@@ -34,6 +34,7 @@ jupyter notebook
 ```
 # Preview
 <img width="1919" height="997" alt="Screenshot 2025-07-26 165357" src="https://github.com/user-attachments/assets/32166fbc-a8f7-4a7b-b780-1a3197e9e345" />
+
 # License
 This project is open-source and available under the [MIT License](LICENSE).
 
