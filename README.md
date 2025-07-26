@@ -12,8 +12,9 @@ This project implements sentiment analysis on text data using Natural Language P
 - **Algorithm**: XGBoost
 - **Jupyter Notebook**
 # File Structure
+```bash
 📦 Sentiment-Analysis/
  ┣ 📜 Sentiment (1).ipynb       # Main Jupyter notebook with all code
  ┣ 📄 README.md                 # Project description
  ┗ 📊 data/                     # (Add your dataset here or mention link)
-
+```
