@@ -18,3 +18,26 @@ This project implements sentiment analysis on text data using Natural Language P
  ┣ 📄 README.md                 # Project description
  ┗ 📊 data/                     # (Add your dataset here or mention link)
 ```
+# How to Run 
+**Clone this Repo**:
+```bash
+git clone https://github.com/Aaqib2212/sentiment-analysis.git
+cd sentiment-analysis
+```
+# Install required packages
+```bash
+pip install -r requirements.txt
+```
+# Launch the notebook
+```bash
+jupyter notebook
+```
+# Preview
+<img width="1919" height="997" alt="Screenshot 2025-07-26 165357" src="https://github.com/user-attachments/assets/32166fbc-a8f7-4a7b-b780-1a3197e9e345" />
+# License
+This project is open-source and available under the [MIT License](LICENSE).
+
+# Contact
+Feel free to connect:
+- Linkedin: https://www.linkedin.com/in/aaqib2212/
+- Mail: aaqibbelim0@gmail.com
